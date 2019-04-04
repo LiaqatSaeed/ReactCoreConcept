@@ -1,0 +1,32 @@
+{
+  "name": "reactcoreconcept",
+  "version": "1.0.0",
+  "description": "This repo is for practicing core concpet of React",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiaqatSaeed/ReactCoreConcept.git"
+  },
+  "author": "LSKhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiaqatSaeed/ReactCoreConcept/issues"
+  },
+  "homepage": "https://github.com/LiaqatSaeed/ReactCoreConcept#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}

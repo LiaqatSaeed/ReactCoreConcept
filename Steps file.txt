@@ -1,0 +1,24 @@
+
+1)
+C:\Users\Tutorialspoint\Desktop\reactApp>npm install react --save
+C:\Users\Tutorialspoint\Desktop\reactApp>npm install react-dom --save
+
+2)
+
+C:\Users\username\Desktop\reactApp>npm install webpack –save
+C:\Users\username\Desktop\reactApp>npm install webpack-dev-server --save
+C:\Users\username\Desktop\reactApp>npm install webpack-cli --save
+
+3)
+C:\Users\username\Desktop\reactApp>npm install babel-core --save-dev
+C:\Users\username\Desktop\reactApp>npm install babel-loader --save-dev
+C:\Users\username\Desktop\reactApp>npm install babel-preset-env --save-dev
+C:\Users\username\Desktop\reactApp>npm install babel-preset-react --save-dev
+C:\Users\username\Desktop\reactApp>npm install html-webpack-plugin --save-dev
+
+4)
+C:\Users\username\Desktop\reactApp>type nul > index.html
+C:\Users\username\Desktop\reactApp>type nul > App.js
+C:\Users\username\Desktop\reactApp>type nul > main.js
+C:\Users\username\Desktop\reactApp>type nul > webpack.config.js
+C:\Users\username\Desktop\reactApp>type nul > .babelrc
